@@ -1,5 +1,4 @@
 @startuml Project
-
 class ImportedCar extends Car {
     -importedOn: DateTime
     -originalCountry: String
@@ -75,7 +74,4 @@ class Watchable {
     -acceptChanges()
     -getChanges()
 }
-
-
-
 @enduml
