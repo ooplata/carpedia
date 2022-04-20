@@ -1,0 +1,2 @@
+class Internals:
+    pass
