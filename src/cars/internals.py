@@ -1,6 +1,7 @@
 # Definición de la clase
 class Internals:
-    def __init__(self, engine, transmission, diff, powerTrain, fuelType, fuelConsumption):
+    def __init__(self, engine, transmission, diff, powerTrain, fuelType,
+    fuelConsumption):
         self.engine = engine
         self.transmission = transmission
         self.diff = diff
