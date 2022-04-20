@@ -1,0 +1,81 @@
+@startuml Project
+
+class ImportedCar extends Car {
+    -importedOn: DateTime
+    -originalCountry: String
+}
+
+class UsedCar extends Car {
+    -mileage: Float
+    -modifications: List<String>
+}
+
+class NewCar extends Car {
+    -concessionaire: String
+}
+
+class Car implements Internals {
+    -releaseYear: DateTime
+    -model: String
+    -brand: String
+    -body: String
+    -priceHistory: Dictionary<DateTime,Float>
+    -internals: Internals
+}
+
+class Internals implements Engine {
+    -engine: Engine
+    -transmission: String
+    -4wb: bool
+    -powerTrain: String
+    -fuelType: FuelType
+    -fuelConsumption: Float
+}
+
+enum FuelType {
+    -Gasoline
+    -Diesel
+    -Premium
+}
+
+class Engine {
+    -size: Float
+    -cylinders: Int
+    -inductionType: InductionType
+    -horsePower: Int
+    -torque: Int
+}
+
+enum InductionType {
+    -Turbo
+    -Super
+}
+
+class MotorUtility {
+    -urls: List<String>
+    -getLatestArticle() -> MotorArticle
+    -getArticlesWithCar(Car) -> [MotorArticle]
+    -openArticle(MotorArticle)
+}
+
+class MotorArticle {
+    -publishDate: DateTime
+    -body: String
+    -getAllCars() -> [Car]
+}
+
+class WatchListItem implements Watchable {
+    -model: String
+    -oldPrice: Float
+    -newPrice: Float
+}
+
+class Watchable {
+    -hasChanges: Bool
+    -acceptChanges()
+    -getChanges()
+}
+
+
+
+@enduml
