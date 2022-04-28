@@ -1,0 +1,117 @@
+{
+	"Imported": [
+		{
+			"importedOn": 2013,
+			"originalCountry": "Italia",
+			"releaseYear": 2009,
+			"model": "Mito",
+			"brand": "Alfa Romeo",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 46.5,
+				"2014": 49.5,
+				"2015": 52.6,
+				"2016": 56.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 155,
+					"torque": 230
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 6.5
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originalCountry": "Italia",
+			"releaseYear": 2009,
+			"model": "Mito",
+			"brand": "Alfa Romeo",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 46.5,
+				"2014": 49.5,
+				"2015": 52.6,
+				"2016": 56.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 155,
+					"torque": 230
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 6.5
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originalCountry": "Italia",
+			"releaseYear": 2012,
+			"model": "Giulietta",
+			"brand": "Alfa Romeo",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 49.8,
+				"2014": 53.0,
+				"2015": 56.4,
+				"2016": 60.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 105,
+					"torque": 215
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 6.4
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originalCountry": "Italia",
+			"releaseYear": 2012,
+			"model": "Giulietta",
+			"brand": "Alfa Romeo",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 56.5,
+				"2014": 60.1,
+				"2015": 63.9,
+				"2016": 68.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 170,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 5.1
+			}
+		}
+
+	]
+}
