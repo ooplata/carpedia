@@ -1,13 +1,12 @@
 from cars.cars import ImportedCar
 from cars.engine import Engine
-from cars.enums.enums import FuelType, InductionType
 from cars.internals import Internals
 
 
-carEngine = Engine(4 , 4 , InductionType.super , 2 , "Torque")
+carEngine = Engine(4 , 4 , "Super" , 2 , "Torque")
 
 carInternals = Internals(carEngine , "Manual" , "Open" , "Front" ,
-FuelType.gasoline , 6.5)
+"Gasoline" , 6.5)
 
 car = ImportedCar(2022 , "USA" , 2022 , "Mito" , "AlfaRomeo" , "Compact"
 , 0, carInternals)
