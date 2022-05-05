@@ -18,7 +18,7 @@ class Car(ABC):
 class ImportedCar(Car):
     def __init__(self, json):
         self.importedOn = json["importedOn"]
-        self.originCountry = json["originalCountry"]
+        self.originCountry = json["originCountry"]
         super().__init__(json)
 
 
