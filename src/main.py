@@ -17,7 +17,7 @@ for car in data["Imported"]:
 
     prices = c.priceHistory.items()
     x, y = zip(*prices)
-    plt.plot(x, y)
+    plt.plot(x, y, marker='o')
     plt.xlabel('Year')
     plt.ylabel('Price')
     plt.title(c.model)
