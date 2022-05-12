@@ -1207,6 +1207,175 @@
 				"fuelType": "gasolina",
 				"fuelConsumption": 7.4
 			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2012,
+			"model": "A6 Quattro",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 126.2,
+				"2014": 134.3,
+				"2015": 142.9,
+				"2016": 152.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Supercargado",
+					"horsePower": 306,
+					"torque": 440
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 8.2
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "A6 Quattro",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 130.4,
+				"2014": 138.7,
+				"2015": 147.6,
+				"2016": 157.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Supercargado",
+					"horsePower": 242,
+					"torque": 500
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "Diesel",
+				"fuelConsumption": 5.1
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "A7 Quattro",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 141.3,
+				"2014": 150.3,
+				"2015": 159.9,
+				"2016": 170.1,
+				"2017": 181.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Supercargado",
+					"horsePower": 296,
+					"torque": 540
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 8.2
+			}
+		},
+		{
+			"importedOn": 2009,
+			"originCountry": "Germany",
+			"releaseYear": 2006,
+			"model": "TT",
+			"brand": "Audi",
+			"body": "Coupe",
+			"priceHistory": {
+				"2013": 86.4,
+				"2014": 91.9,
+				"2015": 97.8,
+				"2016": 104.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 200,
+					"torque": 280
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.7
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2012,
+			"model": "A8 Quattro",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 141.2,
+				"2014": 150.2,
+				"2015": 159.8,
+				"2016": 170.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "supercargado",
+					"horsePower": 328,
+					"torque": 440
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.8
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "A8 Quattro",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 101.3,
+				"2014": 107.8,
+				"2015": 114.7,
+				"2016": 122.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 4.2,
+					"cylinders": 8,
+					"inductionType": "Natural",
+					"horsePower": 367,
+					"torque": 445
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 9.5
+			}
 		}
 
 
