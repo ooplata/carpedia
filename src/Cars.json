@@ -1016,7 +1016,7 @@
 			"importedOn": 2010,
 			"originCountry": "Germany",
 			"releaseYear": 2009,
-			"model": "A5",
+			"model": "A5 Sportback",
 			"brand": "Audi",
 			"body": "Sedan",
 			"priceHistory": {
@@ -1044,7 +1044,7 @@
 			"importedOn": 2010,
 			"originCountry": "Germany",
 			"releaseYear": 2009,
-			"model": "A5",
+			"model": "A5 Sportback",
 			"brand": "Audi",
 			"body": "Sedan",
 			"priceHistory": {
@@ -1095,7 +1095,120 @@
 				"fuelType": "gasolina",
 				"fuelConsumption": 7.1
 			}
+		},
+		{
+			"importedOn": 2005,
+			"originCountry": "Germany",
+			"releaseYear": 1999,
+			"model": "A6",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 84.7,
+				"2014": 90.1,
+				"2015": 95.9,
+				"2016": 102.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.8,
+					"cylinders": 6,
+					"inductionType": "Natural",
+					"horsePower": 190,
+					"torque": 280
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 8.7
+			}
+		},
+		{
+			"importedOn": 2010,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A6",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 99.7,
+				"2014": 106.0,
+				"2015": 112.8,
+				"2016": 120.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Supercargado",
+					"horsePower": 290,
+					"torque": 420
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 9.4
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "A6",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 81.4,
+				"2014": 86.6,
+				"2015": 92.1,
+				"2016": 98.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 178,
+					"torque": 320
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 6.4
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "A6",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 83.9,
+				"2014": 89.2,
+				"2015": 94.9,
+				"2016": 101.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.8,
+					"cylinders": 6,
+					"inductionType": "Natural",
+					"horsePower": 217,
+					"torque": 280
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.4
+			}
 		}
+
 
 
 
