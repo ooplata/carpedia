@@ -927,6 +927,174 @@
 				"fuelType": "gasolina",
 				"fuelConsumption": 7.9
 			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2007,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Coupé",
+			"priceHistory": {
+				"2013": 80.6,
+				"2014": 85.7,
+				"2015": 91.2,
+				"2016": 97.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 168,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Coupé",
+			"priceHistory": {
+				"2013": 81.4,
+				"2014": 86.6,
+				"2015": 92.1,
+				"2016": 98.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 208,
+					"torque": 350
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 6.0
+			}
+		},
+		{
+			"importedOn": 2009,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Coupé",
+			"priceHistory": {
+				"2013": 99.7,
+				"2014": 106.0,
+				"2015": 112.8,
+				"2016": 120.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 208,
+					"torque": 350
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.8
+			}
+		},
+		{
+			"importedOn": 2010,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 81.4,
+				"2014": 86.6,
+				"2015": 92.1,
+				"2016": 98.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 160,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2010,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 84.7,
+				"2014": 90.1,
+				"2015": 95.9,
+				"2016": 102.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 208,
+					"torque": 350
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.8
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Convertible",
+			"priceHistory": {
+				"2013": 81.4,
+				"2014": 86.6,
+				"2015": 92.1,
+				"2016": 98.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 160,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
 		}
 
 
