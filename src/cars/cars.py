@@ -14,6 +14,9 @@ class Car(ABC):
         self.priceHistory = json["priceHistory"]
         self.internals = Internals(json["internals"])
 
+    def __str__(self):
+        return self.model + " by " +  self.brand + " (" + self.releaseYear.__str__() + ")"
+
 
 class ImportedCar(Car):
     def __init__(self, json):
