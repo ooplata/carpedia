@@ -25,7 +25,7 @@ file.close()
 
 # %%
 root = Tk()
-root.geometry("800x800")
+root.geometry("600x600")
 
 # Title label widget
 titleScreen = Label(root, text="Carpedia")
