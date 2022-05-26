@@ -21,7 +21,7 @@ class App(Application):
         plt.plot(x, y, marker='o')
         plt.xlabel('Year')
         plt.ylabel('Price')
-        plt.title(c.model)
+        plt.title(car.model)
         plt.show()
 
     def onstartup(self):
