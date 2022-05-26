@@ -29,4 +29,7 @@ class App(Application):
             lb.insert(END, car)
         lb.pack()
 
+    def onclosure(self):
+        print("Thanks for using Carpedia!")
+
 # %%

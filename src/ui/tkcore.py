@@ -15,9 +15,14 @@ class Application(ABC):
     def run(self):
         self.onstartup()
         self.window.mainloop()
+        self.onclosure()
 
     @abstractmethod
     def onstartup(self):
+        ...
+
+    @abstractmethod
+    def onclosure(self):
         ...
 
 # %%
