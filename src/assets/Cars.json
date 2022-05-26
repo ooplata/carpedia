@@ -1,0 +1,1388 @@
+{
+	"Imported": [
+		{
+			"importedOn": 2013,
+			"originCountry": "Italia",
+			"releaseYear": 2009,
+			"model": "Mito",
+			"brand": "Alfa Romeo",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 46.5,
+				"2014": 49.5,
+				"2015": 52.6,
+				"2016": 56.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 155,
+					"torque": 230
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 6.5
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Italia",
+			"releaseYear": 2009,
+			"model": "Mito",
+			"brand": "Alfa Romeo",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 46.5,
+				"2014": 49.5,
+				"2015": 52.6,
+				"2016": 56.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 155,
+					"torque": 230
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 6.5
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Italia",
+			"releaseYear": 2012,
+			"model": "Giulietta",
+			"brand": "Alfa Romeo",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 49.8,
+				"2014": 53.0,
+				"2015": 56.4,
+				"2016": 60.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 105,
+					"torque": 215
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 6.4
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Italia",
+			"releaseYear": 2012,
+			"model": "Giulietta",
+			"brand": "Alfa Romeo",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 56.5,
+				"2014": 60.1,
+				"2015": 63.9,
+				"2016": 68.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 170,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 5.1
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "A1 Attraction",
+			"brand": "Audi",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 45.7,
+				"2014": 48.6,
+				"2015": 51.7,
+				"2016": 55.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 122,
+					"torque": 200
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 5.4
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "A1 Ambition",
+			"brand": "Audi",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 47.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 122,
+					"torque": 200
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 5.4
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "A1 Sportback Ambition",
+			"brand": "Audi",
+			"body": "Compacto",
+			"priceHistory": {
+				"2013": 52.1,
+				"2014": 55.5,
+				"2015": 59.0,
+				"2017": 69.6,
+				"2018": 74.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 122,
+					"torque": 200
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 5.4
+			}
+		},
+		{
+			"importedOn": 2014,
+			"originCountry": "Germany",
+			"releaseYear": 2013,
+			"model": "A3",
+			"brand": "Audi",
+			"body": "Compacto",
+			"priceHistory": {
+				"2014": 55.5,
+				"2015": 59.0
+
+			},
+			"internals": {
+				"engine": {
+					"size": 1.2,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 105,
+					"torque": 175
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.0
+			}
+		},
+		{
+			"importedOn": 2015,
+			"originCountry": "Germany",
+			"releaseYear": 2013,
+			"model": "A3",
+			"brand": "Audi",
+			"body": "Compacto",
+			"priceHistory": {
+				"2015": 58.0,
+				"2017": 66.7,
+				"2018" : 71.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.2,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 105,
+					"torque": 175
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.0
+			}
+		},
+		{
+			"importedOn": 2015,
+			"originCountry": "Germany",
+			"releaseYear": 2013,
+			"model": "A3 Attraction",
+			"brand": "Audi",
+			"body": "Compacto",
+			"priceHistory": {
+				"2014": 59.2,
+				"2015": 63.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.2,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 105,
+					"torque": 175
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.0
+			}
+		},
+		{
+			"importedOn": 2017,
+			"originCountry": "Germany",
+			"releaseYear": 2016,
+			"model": "A3 Ambition",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2017": 78.9,
+				"2018": 83.9,
+				"2019": 89.3,
+				"2020": 95.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.2,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 105,
+					"torque": 175
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.0
+			}
+		},
+		{
+			"importedOn": 2017,
+			"originCountry": "Germany",
+			"releaseYear": 2016,
+			"model": "A3 Ambition",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2017": 74.2,
+				"2018": 78.9,
+				"2019": 83.9,
+				"2020": 89.3,
+				"2021": 95.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.2,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 105,
+					"torque": 175
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.0
+			}
+		},
+		{
+			"importedOn": 2017,
+			"originCountry": "Germany",
+			"releaseYear": 2016,
+			"model": "A3 Ambition",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2017": 74.2,
+				"2018": 78.9,
+				"2019": 83.9,
+				"2020": 89.3,
+				"2021": 95.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.2,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 105,
+					"torque": 175
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.0
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "A3",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2013": 61.5,
+				"2014": 65.4,
+				"2015": 69.6,
+				"2016": 74.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 197,
+					"torque": 280
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "A3",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2013": 63.1,
+				"2014": 67.2,
+				"2015": 71.4,
+				"2016": 76.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 197,
+					"torque": 280
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2003,
+			"model": "A3 Sportback",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2013": 44.0,
+				"2014": 46.8,
+				"2015": 49.8,
+				"2016": 53.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.6,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 101,
+					"torque": 148
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 6.8
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2003,
+			"model": "A3 Sportback",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2013": 44.0,
+				"2014": 46.8,
+				"2015": 49.8,
+				"2016": 53.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.6,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 101,
+					"torque": 148
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 6.8
+			}
+		},
+		{
+			"importedOn": 2001,
+			"originCountry": "Germany",
+			"releaseYear": 1996,
+			"model": "A3 Sportback",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2013": 55.6,
+				"2014": 59.2,
+				"2015": 63.0,
+				"2016": 67.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 150,
+					"torque": 210
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.8
+			}
+		},
+		{
+			"importedOn": 2017,
+			"originCountry": "Germany",
+			"releaseYear": 2016,
+			"model": "A3 Progressive",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2017": 90.6,
+				"2018": 96.3,
+				"2019": 102.5,
+				"2020": 109.0,
+				"2021": 116.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 190,
+					"torque": 320
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2017,
+			"originCountry": "Germany",
+			"releaseYear": 2016,
+			"model": "A3 Progressive",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2017": 96.8,
+				"2018": 103.0,
+				"2019": 109.6,
+				"2020": 116.6,
+				"2021": 124.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 190,
+					"torque": 320
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2010,
+			"originCountry": "Germany",
+			"releaseYear": 2004,
+			"model": "A3 Sportback",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2013": 59.8,
+				"2014": 63.6,
+				"2015": 67.7,
+				"2016": 72.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 180,
+					"torque": 280
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 9.0
+			}
+		},
+		{
+			"importedOn": 2010,
+			"originCountry": "Germany",
+			"releaseYear": 2004,
+			"model": "A3 Sportback",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2013": 62.3,
+				"2014": 66.3,
+				"2015": 70.5,
+				"2016": 75.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 180,
+					"torque": 280
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 9.0
+			}
+		},
+		{
+			"importedOn": 2010,
+			"originCountry": "Germany",
+			"releaseYear": 2006,
+			"model": "S3",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2013": 80.6,
+				"2014": 85.7,
+				"2015": 91.2,
+				"2016": 97.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 265,
+					"torque": 350
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 9.1
+			}
+		},
+		{
+			"importedOn": 2014,
+			"originCountry": "Germany",
+			"releaseYear": 2013,
+			"model": "A3 Ambition",
+			"brand": "Audi",
+			"body": "compacto",
+			"priceHistory": {
+				"2014": 68.3,
+				"2015": 72.7,
+				"2016": 77.3,
+				"2017": 82.2,
+				"2018": 87.5,
+				"2019": 93.1,
+				"2020": 99.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 220,
+					"torque": 350
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2014,
+			"originCountry": "Germany",
+			"releaseYear": 2013,
+			"model": "A3 Ambition",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2014": 74.5,
+				"2015": 79.3,
+				"2016": 84.3,
+				"2017": 89.7,
+				"2018": 95.4,
+				"2019": 101.5,
+				"2020": 108.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 220,
+					"torque": 350
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A4 Attraction",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 49.0,
+				"2014": 52.1,
+				"2015": 55.5,
+				"2016": 59.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 120,
+					"torque": 230
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.5
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A4 Ambition",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 49.8,
+				"2014": 53.0,
+				"2015": 56.4,
+				"2016": 60.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 120,
+					"torque": 230
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.5
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A4 Comfort",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 60.6,
+				"2014": 64.5,
+				"2015": 68.6,
+				"2016": 73.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 120,
+					"torque": 230
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.5
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2007,
+			"model": "A4 Comfort",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 56.5,
+				"2014": 60.1,
+				"2015": 63.9,
+				"2016": 68.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 160,
+					"torque": 250
+				},
+				"transmission": "manual",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.9
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2007,
+			"model": "A4 Comfort",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 62.3,
+				"2014": 66.3,
+				"2015": 70.5,
+				"2016": 75.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 160,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.9
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2007,
+			"model": "A4 Luxury",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 68.1,
+				"2014": 72.5,
+				"2015": 77.1,
+				"2016": 82.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 160,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.9
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A4 Luxury",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 77.2,
+				"2014": 82.2,
+				"2015": 87.4,
+				"2016": 93.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 180,
+					"torque": 320
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 8.3
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2007,
+			"model": "A4 Avant Luxury",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 66.4,
+				"2014": 70.7,
+				"2015": 75.2,
+				"2016": 80.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 160,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.9
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2007,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Coupé",
+			"priceHistory": {
+				"2013": 80.6,
+				"2014": 85.7,
+				"2015": 91.2,
+				"2016": 97.0
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 168,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Coupé",
+			"priceHistory": {
+				"2013": 81.4,
+				"2014": 86.6,
+				"2015": 92.1,
+				"2016": 98.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 208,
+					"torque": 350
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 6.0
+			}
+		},
+		{
+			"importedOn": 2009,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Coupé",
+			"priceHistory": {
+				"2013": 99.7,
+				"2014": 106.0,
+				"2015": 112.8,
+				"2016": 120.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 208,
+					"torque": 350
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.8
+			}
+		},
+		{
+			"importedOn": 2010,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "A5 Sportback",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 81.4,
+				"2014": 86.6,
+				"2015": 92.1,
+				"2016": 98.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 160,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2010,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "A5 Sportback",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 84.7,
+				"2014": 90.1,
+				"2015": 95.9,
+				"2016": 102.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 208,
+					"torque": 350
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 5.8
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "A5",
+			"brand": "Audi",
+			"body": "Convertible",
+			"priceHistory": {
+				"2013": 81.4,
+				"2014": 86.6,
+				"2015": 92.1,
+				"2016": 98.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 1.8,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 160,
+					"torque": 250
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.1
+			}
+		},
+		{
+			"importedOn": 2005,
+			"originCountry": "Germany",
+			"releaseYear": 1999,
+			"model": "A6",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 84.7,
+				"2014": 90.1,
+				"2015": 95.9,
+				"2016": 102.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.8,
+					"cylinders": 6,
+					"inductionType": "Natural",
+					"horsePower": 190,
+					"torque": 280
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 8.7
+			}
+		},
+		{
+			"importedOn": 2010,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "A6",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 99.7,
+				"2014": 106.0,
+				"2015": 112.8,
+				"2016": 120.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Supercargado",
+					"horsePower": 290,
+					"torque": 420
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 9.4
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "A6",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 81.4,
+				"2014": 86.6,
+				"2015": 92.1,
+				"2016": 98.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 178,
+					"torque": 320
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 6.4
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "A6",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 83.9,
+				"2014": 89.2,
+				"2015": 94.9,
+				"2016": 101.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.8,
+					"cylinders": 6,
+					"inductionType": "Natural",
+					"horsePower": 217,
+					"torque": 280
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.4
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2012,
+			"model": "A6 Quattro",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 126.2,
+				"2014": 134.3,
+				"2015": 142.9,
+				"2016": 152.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Supercargado",
+					"horsePower": 306,
+					"torque": 440
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 8.2
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "A6 Quattro",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 130.4,
+				"2014": 138.7,
+				"2015": 147.6,
+				"2016": 157.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Supercargado",
+					"horsePower": 242,
+					"torque": 500
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "Diesel",
+				"fuelConsumption": 5.1
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "A7 Quattro",
+			"brand": "Audi",
+			"body": "Sedan",
+			"priceHistory": {
+				"2013": 141.3,
+				"2014": 150.3,
+				"2015": 159.9,
+				"2016": 170.1,
+				"2017": 181.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Supercargado",
+					"horsePower": 296,
+					"torque": 540
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 8.2
+			}
+		},
+		{
+			"importedOn": 2009,
+			"originCountry": "Germany",
+			"releaseYear": 2006,
+			"model": "TT",
+			"brand": "Audi",
+			"body": "Coupe",
+			"priceHistory": {
+				"2013": 86.4,
+				"2014": 91.9,
+				"2015": 97.8,
+				"2016": 104.0
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "turbo",
+					"horsePower": 200,
+					"torque": 280
+				},
+				"transmission": "automatico",
+				"4WD": false,
+				"powerTrain": "front",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.7
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2012,
+			"model": "A8 Quattro",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 141.2,
+				"2014": 150.2,
+				"2015": 159.8,
+				"2016": 170.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "supercargado",
+					"horsePower": 328,
+					"torque": 440
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 7.8
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "A8 Quattro",
+			"brand": "Audi",
+			"body": "sedan",
+			"priceHistory": {
+				"2013": 101.3,
+				"2014": 107.8,
+				"2015": 114.7,
+				"2016": 122.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 4.2,
+					"cylinders": 8,
+					"inductionType": "Natural",
+					"horsePower": 367,
+					"torque": 445
+				},
+				"transmission": "automatico",
+				"4WD": true,
+				"powerTrain": "Total",
+				"fuelType": "gasolina",
+				"fuelConsumption": 9.5
+			}
+		}
+
+
+
+
+
+
+
+	]
+}
