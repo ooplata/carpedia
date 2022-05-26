@@ -1,5 +1,5 @@
 # %%
-from cars.cars import ImportedCar
+from cars.cars import Car, ImportedCar
 from ui.tkcore import Application
 
 import json
@@ -14,6 +14,16 @@ class App(Application):
     def __init__(self) -> None:
         super().__init__("Carpedia", "assets/logo.gif", "600x600")
 
+    def showPriceGraph(self, car: Car):
+        prices = car.priceHistory.items()
+        x, y = zip(*prices)
+        plt.plot(x, y)
+        plt.plot(x, y, marker='o')
+        plt.xlabel('Year')
+        plt.ylabel('Price')
+        plt.title(c.model)
+        plt.show()
+
     def onstartup(self):
         file = open('assets/Cars.json')
         data = json.load(file)
@@ -22,6 +32,7 @@ class App(Application):
         for car in data["Imported"]:
             c = ImportedCar(car)
             cars.append(c)
+            self.showPriceGraph(c)
 
         file.close()
         lb = Listbox(self.window)
