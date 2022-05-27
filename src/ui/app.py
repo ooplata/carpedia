@@ -6,39 +6,45 @@ import json
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from tkinter import *
+import tkinter as tk
 
 
 # %%
 class App(Application):
     def __init__(self) -> None:
         super().__init__("Carpedia", "assets/logo.gif", "600x600")
-
-    def showPriceGraph(self, car: Car):
-        prices = car.priceHistory.items()
-        x, y = zip(*prices)
-        plt.plot(x, y)
-        plt.plot(x, y, marker='o')
-        plt.xlabel('Year')
-        plt.ylabel('Price')
-        plt.title(car.model)
-        plt.show()
+        self.cars = []
 
     def onstartup(self):
         file = open('assets/Cars.json')
         data = json.load(file)
 
-        cars = []
         for car in data["Imported"]:
             c = ImportedCar(car)
-            cars.append(c)
-            self.showPriceGraph(c)
+            self.cars.append(c)
 
         file.close()
-        lb = Listbox(self.window)
-        for car in cars:
-            lb.insert(END, car)
+        lb = tk.Listbox(self.window)
+        for car in self.cars:
+            lb.insert(tk.END, car)
+
+        lb.bind('<<ListboxSelect>>', self.onselect)
         lb.pack()
+
+    def onselect(self, evt):
+        w = evt.widget
+        index = w.curselection()[0]
+
+        self.showPriceGraph(self.cars[index])
+
+    def showPriceGraph(self, car: Car):
+        prices = car.priceHistory.items()
+        x, y = zip(*prices)
+        plt.plot(x, y, marker='o')
+        plt.xlabel('Year')
+        plt.ylabel('Price')
+        plt.title(car)
+        plt.show()
 
     def onclosure(self):
         print("Thanks for using Carpedia!")
