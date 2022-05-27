@@ -1,18 +1,21 @@
 # %%
 from abc import ABC, abstractmethod
-from tkinter import *
+
+import tkinter as tk
 
 
 # %%
 class Application(ABC):
     def __init__(self, title: str, iconPath: str,
                  geometry: str) -> None:
-        self.window = Tk()
+        self.window = tk.Tk()
         self.window.title(title)
         self.window.iconbitmap(iconPath)
         self.window.geometry(geometry)
 
     def run(self):
+        self.window.update()
+
         self.onstartup()
         self.window.mainloop()
         self.onclosure()
