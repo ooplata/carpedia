@@ -2,7 +2,7 @@
 Starts the app.
 
 ```Python
-def run()
+def run(self)
 ```
 
 ## Remarks
