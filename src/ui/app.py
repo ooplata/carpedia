@@ -42,6 +42,11 @@ class App(Application):
             index = sel[0]
             car = self.cars[index]
 
+            infoStr = f"{car.model} by {car.brand}\n"
+            infoStr += f"Released on {car.releaseYear}"
+            infoStr += f", imported on {car.importedOn}\n"
+            infoStr += f"Body type: {car.body}\n\n"
+
             self.info.delete(1.0, tk.END)
             self.info.insert(tk.INSERT, "About")
 
