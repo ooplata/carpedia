@@ -16,7 +16,7 @@ class NewCar extends Car {
 Engine *-- Internals
 Internals *-- Car
 
-class Car {
+abstract class Car {
     +releaseYear: int
     +model: str
     +brand: str
@@ -45,7 +45,7 @@ class Engine {
     +torque: int
 }
 
-class Application {
+abstract class Application {
     +run()
     +onstartup()
     +onclosure()
