@@ -141,31 +141,6 @@
 			}
 		},
 		{
-			"importedOn": 2012,
-			"originCountry": "Germany",
-			"releaseYear": 2010,
-			"model": "A1 Ambition",
-			"brand": "Audi",
-			"body": "3/5-door Hatchback",
-			"priceHistory": {
-				"2013": 47.0
-			},
-			"internals": {
-				"engine": {
-					"size": 1.4,
-					"cylinders": 4,
-					"inductionType": "Turbocharged",
-					"horsePower": 122,
-					"torque": 200
-				},
-				"transmission": "Automatic",
-				"4WD": false,
-				"powerTrain": "Front",
-				"fuelType": "Gasoline",
-				"fuelConsumption": 5.4
-			}
-		},
-		{
 			"importedOn": 2013,
 			"originCountry": "Germany",
 			"releaseYear": 2011,
@@ -1375,6 +1350,556 @@
 				"powerTrain": "All",
 				"fuelType": "Gasoline",
 				"fuelConsumption": 9.5
+			}
+		},
+		{
+			"importedOn": 2017,
+			"originCountry": "Germany",
+			"releaseYear": 2016,
+			"model": "Q2 Progressive",
+			"brand": "Audi",
+			"body": "5-door crossover SUV",
+			"priceHistory": {
+				"2017": 87.4,
+				"2018": 93.0,
+				"2019": 99.0,
+				"2020": 105.3,
+				"2021": 112.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 1.0,
+					"cylinders": 3,
+					"inductionType": "Turbocharged",
+					"horsePower": 114,
+					"torque": 200
+				},
+				"transmission": "Automatic",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 5.1
+			}
+		},
+		{
+			"importedOn": 2017,
+			"originCountry": "Germany",
+			"releaseYear": 2014,
+			"model": "Q3 Ambition",
+			"brand": "Audi",
+			"body": "5-door crossover SUV",
+			"priceHistory": {
+				"2017": 92.9,
+				"2018": 98.8,
+				"2019": 105.1,
+				"2020": 111.9,
+				"2021": 119.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 1.4,
+					"cylinders": 4,
+					"inductionType": "Turbocharged",
+					"horsePower": 150,
+					"torque": 250
+				},
+				"transmission": "Automatic",
+				"4WD": false,
+				"powerTrain": "Front",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 5.9
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "Q3 Attraccion",
+			"brand": "Audi",
+			"body": "5-door crossover SUV",
+			"priceHistory": {
+				"2013": 68.7,
+				"2014": 73.1,
+				"2015": 77.8,
+				"2016": 82.8,
+				"2017": 88.0,
+				"2018": 93.7,
+				"2019": 99.6,
+				"2020": 106.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "Turbocharged",
+					"horsePower": 170,
+					"torque": 280
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 7.7
+			}
+		},
+		{
+			"importedOn": 2013,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "Q3 Ambition",
+			"brand": "Audi",
+			"body": "5-door crossover SUV",
+			"priceHistory": {
+				"2013": 71.4,
+				"2014": 76.0,
+				"2015": 80.8,
+				"2016": 86.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "Turbocharged",
+					"horsePower": 170,
+					"torque": 280
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 7.7
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "Q3 Luxury",
+			"brand": "Audi",
+			"body": "5-door crossover SUV",
+			"priceHistory": {
+				"2013": 73.1,
+				"2014": 77.8,
+				"2015": 82.7,
+				"2016": 88.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "Turbocharged",
+					"horsePower": 170,
+					"torque": 280
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 7.7
+			}
+		},
+		{
+			"importedOn": 2014,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "Q5 Ambition",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2016": 111.6,
+				"2017": 118.7,
+				"2018": 126.2,
+				"2019": 134.3,
+				"2020": 142.9,
+				"2021": 152.0		
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "Turbocharged",
+					"horsePower": 225,
+					"torque": 350
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 7.9
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "Q5 Attracction",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2013": 80.4,
+				"2014": 85.5,
+				"2015": 91.0,
+				"2016": 96.8,
+				"2017": 103.0,
+				"2018": 109.6,
+				"2019": 116.6,
+				"2020": 124.0		
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "Turbocharged",
+					"horsePower": 225,
+					"torque": 350
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 7.9
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2008,
+			"model": "Q5 Ambition Quattro",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2013": 94.5,
+				"2014": 100.5,
+				"2015": 106.9,
+				"2016": 113.8,
+				"2017": 121.0,
+				"2018": 128.7,
+				"2019": 137.0,
+				"2020": 145.7,
+				"2021": 155.0	
+			},
+			"internals": {
+				"engine": {
+					"size": 2.0,
+					"cylinders": 4,
+					"inductionType": "Turbocharged",
+					"horsePower": 225,
+					"torque": 350
+				},
+				"transmission": "Manual",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 7.9
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "Q5 Luxury ",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2013": 88.9,
+				"2014": 94.5,
+				"2015": 100.6,
+				"2016": 107.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Turbocharged",
+					"horsePower": 240,
+					"torque": 500
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Diesel",
+				"fuelConsumption": 7.5
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "Q5 Attraction",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2013": 83.9,
+				"2014": 89.2,
+				"2015": 94.9,
+				"2016": 101.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.2,
+					"cylinders": 6,
+					"inductionType": "Naturally aspirated",
+					"horsePower": 270,
+					"torque": 330
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 9.3
+			}
+		},
+		{
+			"importedOn": 2011,
+			"originCountry": "Germany",
+			"releaseYear": 2009,
+			"model": "Q5 Luxury",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2013": 88.9,
+				"2014": 94.5,
+				"2015": 100.6,
+				"2016": 107.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.2,
+					"cylinders": 6,
+					"inductionType": "Naturally aspirated",
+					"horsePower": 270,
+					"torque": 330
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 9.3
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "Q7",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2013": 119.6,
+				"2014": 127.2,
+				"2015": 135.4,
+				"2016": 144.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Turbocharged",
+					"horsePower": 272,
+					"torque": 400
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 10.7
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2010,
+			"model": "Q7",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2013": 153.7,
+				"2014": 163.5,
+				"2015": 173.9,
+				"2016": 185.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Turbocharged",
+					"horsePower": 333,
+					"torque": 440
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 10.7
+			}
+		},
+		{
+			"importedOn": 2012,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "Q7 ",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2013": 122.6,
+				"2014": 130.4,
+				"2015": 138.7,
+				"2016": 147.6,
+				"2017": 157.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Turbocharged",
+					"horsePower": 245,
+					"torque": 550
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Diesel",
+				"fuelConsumption": 7.4
+			}
+		},
+		{
+			"importedOn": 2016,
+			"originCountry": "Germany",
+			"releaseYear": 2015,
+			"model": "Q7 Ambition",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2016": 192.7,
+				"2017": 205.0,
+				"2018": 218.1,
+				"2019": 232.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Turbocharged",
+					"horsePower": 333,
+					"torque": 440
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 8.3
+			}
+		},
+		{
+			"importedOn": 2016,
+			"originCountry": "Germany",
+			"releaseYear": 2015,
+			"model": "Q7 Ambition 7-seater",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2016": 201.0,
+				"2017": 213.8,
+				"2018": 227.5,
+				"2019": 242.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Turbocharged",
+					"horsePower": 333,
+					"torque": 440
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 8.3
+			}
+		},
+		{
+			"importedOn": 2016,
+			"originCountry": "Germany",
+			"releaseYear": 2015,
+			"model": "Q7 Progressive 7-seater",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2016": 216.8,
+				"2017": 230.6,
+				"2018": 245.3,
+				"2019": 261.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Turbocharged",
+					"horsePower": 333,
+					"torque": 440
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Gasoline",
+				"fuelConsumption": 8.3
+			}
+		},
+		{
+			"importedOn": 2014,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "Q7 Ambition 7-seater",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2016": 193.5,
+				"2017": 205.9,
+				"2018": 219.0,
+				"2019": 233.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Turbocharged",
+					"horsePower": 245,
+					"torque": 550
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Diesel",
+				"fuelConsumption": 7.4
+			}
+		},
+		{
+			"importedOn": 2014,
+			"originCountry": "Germany",
+			"releaseYear": 2011,
+			"model": "Q7 Progressive 7-seater",
+			"brand": "Audi",
+			"body": "5-door SUV",
+			"priceHistory": {
+				"2016": 216.0,
+				"2017": 229.7,
+				"2018": 244.4,
+				"2019": 260.0
+			},
+			"internals": {
+				"engine": {
+					"size": 3.0,
+					"cylinders": 6,
+					"inductionType": "Turbocharged",
+					"horsePower": 245,
+					"torque": 550
+				},
+				"transmission": "Automatic",
+				"4WD": true,
+				"powerTrain": "All",
+				"fuelType": "Diesel",
+				"fuelConsumption": 7.4
 			}
 		}
 
