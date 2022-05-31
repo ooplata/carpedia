@@ -46,12 +46,17 @@ class Engine {
 }
 
 abstract class Application {
+    +window: Tk
+
     +run()
     +onstartup()
     +onclosure()
 }
 
 class App extends Application {
+    +cars: List<Car>
+    +info: Text
+
     +onselect(evt)
     +showPriceGraph(car)
 }
