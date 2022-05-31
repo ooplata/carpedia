@@ -23,6 +23,9 @@ class Car {
     +body: str
     +priceHistory: Dictionary<int,float>
     +internals: Internals
+
+    +short_description(): str
+    +long_description(): str
 }
 
 class Internals {
