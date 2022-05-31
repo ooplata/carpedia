@@ -50,4 +50,9 @@ class Application {
     +onstartup()
     +onclosure()
 }
+
+class App extends Application {
+    +onselect(evt)
+    +showPriceGraph(car)
+}
 @enduml
