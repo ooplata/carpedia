@@ -49,6 +49,31 @@ class ImportedCar(Car):
         self.originCountry = json["originCountry"]
         super().__init__(json)
 
+    def short_description(self) -> str:
+        return super().short_description()
+
+    def long_description(self) -> str:
+        infoStr = f"{self.model} by {self.brand}\n"
+        infoStr += f"Released on {self.releaseYear}"
+        infoStr += f", imported from {self.originCountry}"
+        infoStr += f" on {self.importedOn}\n"
+        infoStr += f"Body type: {self.body}\n\n"
+
+        infoStr += f"Internals\n"
+        infoStr += f"Transmission: {self.internals.transmission}\n"
+        infoStr += f"4WD: {self.internals.fourWd}\n"
+        infoStr += f"Power train: {self.internals.powerTrain}\n"
+        infoStr += f"Fuel type: {self.internals.fuelType}\n"
+        infoStr += f"Fuel consumption: {self.internals.fuelConsumption}\n\n"
+
+        infoStr += f"Engine\n"
+        infoStr += f"Size: {self.internals.engine.size}\n"
+        infoStr += f"Cylinders: {self.internals.engine.cylinders}\n"
+        infoStr += f"Induction type: {self.internals.engine.inductionType}\n"
+        infoStr += f"Horse power: {self.internals.engine.horsePower}\n"
+        infoStr += f"Torque: {self.internals.engine.torque}\n"
+        return infoStr
+
 
 class NewCar(Car):
     def __init__(self, json):
