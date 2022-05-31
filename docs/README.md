@@ -21,3 +21,15 @@ app.run()
 ```
 
 The code is fairly simple. First line imports the `App` type from the `app` module, next line creates an instance of `App`, last line runs the app. There is no need for extra code in our entry point, as everything else is handled through custom delegates within our `App` class.
+
+### Assets directory
+You can see a folder called `assets` inside `src`. This folder contains files that are not code, such as pictures or custom data files:
+
+```
+assets/
+├─ Cars.json
+├─ Icon.ico
+├─ Logo.png
+```
+
+In our case, we hold a JSON file with the car information, an ICO file that's used for the app's icon, and a PNG file that's used for the main logo.
