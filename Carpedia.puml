@@ -1,44 +1,44 @@
 @startuml Project
 class ImportedCar extends Car {
-    -importedOn: int
-    -originalCountry: str
+    +importedOn: int
+    +originalCountry: str
 }
 
 class UsedCar extends Car {
-    -mileage: float
-    -modifications: List<str>
+    +mileage: float
+    +modifications: List<str>
 }
 
 class NewCar extends Car {
-    -concessionaire: str
+    +concessionaire: str
 }
 
 Engine *-- Internals
 Internals *-- Car
 
 class Car {
-    -releaseYear: int
-    -model: str
-    -brand: str
-    -body: str
-    -priceHistory: Dictionary<int,float>
-    -internals: Internals
+    +releaseYear: int
+    +model: str
+    +brand: str
+    +body: str
+    +priceHistory: Dictionary<int,float>
+    +internals: Internals
 }
 
 class Internals {
-    -engine: Engine
-    -transmission: str
-    -4wb: bool
-    -powerTrain: str
-    -fuelType: str
-    -fuelConsumption: float
+    +engine: Engine
+    +transmission: str
+    +4wb: bool
+    +powerTrain: str
+    +fuelType: str
+    +fuelConsumption: float
 }
 
 class Engine {
-    -size: float
-    -cylinders: int
-    -inductionType: str
-    -horsePower: int
-    -torque: int
+    +size: float
+    +cylinders: int
+    +inductionType: str
+    +horsePower: int
+    +torque: int
 }
 @enduml
