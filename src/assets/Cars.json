@@ -6,7 +6,7 @@
 			"releaseYear": 2009,
 			"model": "Mito",
 			"brand": "Alfa Romeo",
-			"body": "Hatchback",
+			"body": " 3-door Hatchback",
 			"priceHistory": {
 				"2013": 46.5,
 				"2014": 49.5,
@@ -34,7 +34,7 @@
 			"releaseYear": 2009,
 			"model": "Mito",
 			"brand": "Alfa Romeo",
-			"body": "Hatchback",
+			"body": "3-door Hatchback",
 			"priceHistory": {
 				"2013": 46.5,
 				"2014": 49.5,
@@ -62,7 +62,7 @@
 			"releaseYear": 2012,
 			"model": "Giulietta",
 			"brand": "Alfa Romeo",
-			"body": "Hatchback",
+			"body": "5-door Hatchback",
 			"priceHistory": {
 				"2013": 49.8,
 				"2014": 53.0,
@@ -90,7 +90,7 @@
 			"releaseYear": 2012,
 			"model": "Giulietta",
 			"brand": "Alfa Romeo",
-			"body": "Hatchback",
+			"body": "5-door Hatchback",
 			"priceHistory": {
 				"2013": 56.5,
 				"2014": 60.1,
@@ -118,7 +118,7 @@
 			"releaseYear": 2010,
 			"model": "A1 Attraction",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 45.7,
 				"2014": 48.6,
@@ -146,7 +146,7 @@
 			"releaseYear": 2010,
 			"model": "A1 Ambition",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 47.0
 			},
@@ -171,7 +171,7 @@
 			"releaseYear": 2011,
 			"model": "A1 Sportback Ambition",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 52.1,
 				"2014": 55.5,
@@ -200,7 +200,7 @@
 			"releaseYear": 2013,
 			"model": "A3",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2014": 55.5,
 				"2015": 59.0
@@ -227,7 +227,7 @@
 			"releaseYear": 2013,
 			"model": "A3",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2015": 58.0,
 				"2017": 66.7,
@@ -254,7 +254,7 @@
 			"releaseYear": 2013,
 			"model": "A3 Attraction",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5 door Hatchback",
 			"priceHistory": {
 				"2014": 59.2,
 				"2015": 63.0
@@ -280,7 +280,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2017": 78.9,
 				"2018": 83.9,
@@ -308,7 +308,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2017": 74.2,
 				"2018": 78.9,
@@ -337,7 +337,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2017": 74.2,
 				"2018": 78.9,
@@ -366,7 +366,7 @@
 			"releaseYear": 2009,
 			"model": "A3",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 61.5,
 				"2014": 65.4,
@@ -394,7 +394,7 @@
 			"releaseYear": 2009,
 			"model": "A3",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 63.1,
 				"2014": 67.2,
@@ -422,7 +422,7 @@
 			"releaseYear": 2003,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 44.0,
 				"2014": 46.8,
@@ -450,7 +450,7 @@
 			"releaseYear": 2003,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 44.0,
 				"2014": 46.8,
@@ -478,7 +478,7 @@
 			"releaseYear": 1996,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 55.6,
 				"2014": 59.2,
@@ -506,7 +506,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Progressive",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2017": 90.6,
 				"2018": 96.3,
@@ -535,7 +535,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Progressive",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2017": 96.8,
 				"2018": 103.0,
@@ -564,7 +564,7 @@
 			"releaseYear": 2004,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 59.8,
 				"2014": 63.6,
@@ -592,7 +592,7 @@
 			"releaseYear": 2004,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 62.3,
 				"2014": 66.3,
@@ -620,7 +620,7 @@
 			"releaseYear": 2006,
 			"model": "S3",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2013": 80.6,
 				"2014": 85.7,
@@ -648,7 +648,7 @@
 			"releaseYear": 2013,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "Hatchback",
+			"body": "3/5-door Hatchback",
 			"priceHistory": {
 				"2014": 68.3,
 				"2015": 72.7,
@@ -679,7 +679,7 @@
 			"releaseYear": 2013,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2014": 74.5,
 				"2015": 79.3,
@@ -710,7 +710,7 @@
 			"releaseYear": 2008,
 			"model": "A4 Attraction",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 49.0,
 				"2014": 52.1,
@@ -738,7 +738,7 @@
 			"releaseYear": 2008,
 			"model": "A4 Ambition",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 49.8,
 				"2014": 53.0,
@@ -766,7 +766,7 @@
 			"releaseYear": 2008,
 			"model": "A4 Comfort",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 60.6,
 				"2014": 64.5,
@@ -794,7 +794,7 @@
 			"releaseYear": 2007,
 			"model": "A4 Comfort",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 56.5,
 				"2014": 60.1,
@@ -822,7 +822,7 @@
 			"releaseYear": 2007,
 			"model": "A4 Comfort",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 62.3,
 				"2014": 66.3,
@@ -850,7 +850,7 @@
 			"releaseYear": 2007,
 			"model": "A4 Luxury",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 68.1,
 				"2014": 72.5,
@@ -878,7 +878,7 @@
 			"releaseYear": 2008,
 			"model": "A4 Luxury",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 77.2,
 				"2014": 82.2,
@@ -906,7 +906,7 @@
 			"releaseYear": 2007,
 			"model": "A4 Avant Luxury",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 66.4,
 				"2014": 70.7,
@@ -1018,7 +1018,7 @@
 			"releaseYear": 2009,
 			"model": "A5 Sportback",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "5-door fastback Sedan",
 			"priceHistory": {
 				"2013": 81.4,
 				"2014": 86.6,
@@ -1046,7 +1046,7 @@
 			"releaseYear": 2009,
 			"model": "A5 Sportback",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "5-door fastback Sedan",
 			"priceHistory": {
 				"2013": 84.7,
 				"2014": 90.1,
@@ -1074,7 +1074,7 @@
 			"releaseYear": 2009,
 			"model": "A5",
 			"brand": "Audi",
-			"body": "Convertible",
+			"body": "Cabriolet",
 			"priceHistory": {
 				"2013": 81.4,
 				"2014": 86.6,
@@ -1102,7 +1102,7 @@
 			"releaseYear": 1999,
 			"model": "A6",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 84.7,
 				"2014": 90.1,
@@ -1130,7 +1130,7 @@
 			"releaseYear": 2008,
 			"model": "A6",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 99.7,
 				"2014": 106.0,
@@ -1158,7 +1158,7 @@
 			"releaseYear": 2011,
 			"model": "A6",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 81.4,
 				"2014": 86.6,
@@ -1186,7 +1186,7 @@
 			"releaseYear": 2010,
 			"model": "A6",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 83.9,
 				"2014": 89.2,
@@ -1214,7 +1214,7 @@
 			"releaseYear": 2012,
 			"model": "A6 Quattro",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 126.2,
 				"2014": 134.3,
@@ -1242,7 +1242,7 @@
 			"releaseYear": 2011,
 			"model": "A6 Quattro",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 130.4,
 				"2014": 138.7,
@@ -1270,7 +1270,7 @@
 			"releaseYear": 2010,
 			"model": "A7 Quattro",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "5-door liftback Sedan",
 			"priceHistory": {
 				"2013": 141.3,
 				"2014": 150.3,
@@ -1299,7 +1299,7 @@
 			"releaseYear": 2006,
 			"model": "TT",
 			"brand": "Audi",
-			"body": "Coupe",
+			"body": "Coupé",
 			"priceHistory": {
 				"2013": 86.4,
 				"2014": 91.9,
@@ -1327,7 +1327,7 @@
 			"releaseYear": 2012,
 			"model": "A8 Quattro",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 141.2,
 				"2014": 150.2,
@@ -1355,7 +1355,7 @@
 			"releaseYear": 2010,
 			"model": "A8 Quattro",
 			"brand": "Audi",
-			"body": "Sedan",
+			"body": "4-door Sedan",
 			"priceHistory": {
 				"2013": 101.3,
 				"2014": 107.8,
