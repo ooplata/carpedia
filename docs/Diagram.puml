@@ -6,7 +6,7 @@ class ImportedCar extends Car {
 
 class UsedCar extends Car {
     +mileage: float
-    +modifications: List<str>
+    +modifications: list
 }
 
 class NewCar extends Car {
@@ -23,7 +23,7 @@ abstract class Car {
     +model: str
     +brand: str
     +body: str
-    +priceHistory: Dictionary<int,float>
+    +priceHistory: dict
     +internals: Internals
 
     +short_description(): str
@@ -63,7 +63,7 @@ abstract class Application {
 class App extends Application {
     +App()
 
-    +cars: List<Car>
+    +cars: list
     +info: Text
 
     +onselect(evt)
