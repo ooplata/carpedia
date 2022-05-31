@@ -12,7 +12,7 @@ import tkinter as tk
 # %%
 class App(Application):
     def __init__(self) -> None:
-        super().__init__("Carpedia", "assets/logo.gif", "600x600")
+        super().__init__("Carpedia", "assets/Logo.ico", "600x600")
         self.cars = []
 
     def onstartup(self):
