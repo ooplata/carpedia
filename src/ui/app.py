@@ -37,9 +37,12 @@ class App(Application):
 
     def onselect(self, evt):
         w = evt.widget
-        index = w.curselection()[0]
+        sel = w.curselection()
+        if (sel != None):
+            index = sel[0]
+            car = self.cars[index]
 
-        self.showPriceGraph(self.cars[index])
+            self.showPriceGraph(car)
 
     def showPriceGraph(self, car: Car):
         prices = car.priceHistory.items()
