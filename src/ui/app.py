@@ -42,6 +42,9 @@ class App(Application):
             index = sel[0]
             car = self.cars[index]
 
+            self.info.delete(1.0, tk.END)
+            self.info.insert(tk.INSERT, "About")
+
             self.showPriceGraph(car)
 
     def showPriceGraph(self, car: Car):
