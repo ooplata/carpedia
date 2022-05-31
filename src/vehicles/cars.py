@@ -15,7 +15,7 @@ class Car(ABC):
         self.internals = Internals(json["internals"])
 
     def __str__(self):
-        return self.model + " by " + self.brand + " (" + self.releaseYear.__str__() + ")"
+        return self.short_description()
 
     @abstractmethod
     def short_description(self) -> str:
