@@ -40,3 +40,10 @@ All over our Python source files, you'll find a high amount of lines that are si
 ![Picture of rich VSCode Jupyter support](Jupyter.png)
 
 With them, we separate the code in logical regions (imports, class definions, etc). The Python interpreter sees those as simple comments, so the code is not affected.
+
+## Full UML Diagram
+Lastly, here's the UML diagram of all the classes in this project:
+
+![Class Diagram](Diagram.svg)
+
+The `Diagram.puml` file contains the full code used to generate the above diagram.
