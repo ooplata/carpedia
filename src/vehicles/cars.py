@@ -80,6 +80,12 @@ class NewCar(Car):
         self.dealership = json["dealership"]
         super().__init__(json)
 
+    def short_description(self) -> str:
+        return super().short_description()
+
+    def long_description(self) -> str:
+        return super().long_description()
+
 
 class UsedCar(Car):
     def __init__(self, json):
@@ -87,5 +93,11 @@ class UsedCar(Car):
         self.ownerCount = json["ownerCount"]
         self.modifications = json["modifications"]
         super().__init__(json)
+
+    def short_description(self) -> str:
+        return super().short_description()
+
+    def long_description(self) -> str:
+        return super().long_description()
 
 # %%
