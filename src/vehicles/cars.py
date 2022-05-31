@@ -6,7 +6,7 @@ from vehicles.internals import Internals
 # %%
 # Definición de las clases
 class Car(ABC):
-    def __init__(self, json):
+    def __init__(self, json) -> None:
         self.releaseYear = json["releaseYear"]
         self.model = json["model"]
         self.brand = json["brand"]
@@ -44,7 +44,7 @@ class Car(ABC):
 
 
 class ImportedCar(Car):
-    def __init__(self, json):
+    def __init__(self, json) -> None:
         self.importedOn = json["importedOn"]
         self.originCountry = json["originCountry"]
         super().__init__(json)
@@ -76,7 +76,7 @@ class ImportedCar(Car):
 
 
 class NewCar(Car):
-    def __init__(self, json):
+    def __init__(self, json) -> None:
         self.dealership = json["dealership"]
         super().__init__(json)
 
@@ -88,7 +88,7 @@ class NewCar(Car):
 
 
 class UsedCar(Car):
-    def __init__(self, json):
+    def __init__(self, json) -> None:
         self.mileage = json["mileage"]
         self.ownerCount = json["ownerCount"]
         self.modifications = json["modifications"]
