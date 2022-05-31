@@ -54,6 +54,13 @@ class App(Application):
             infoStr += f"Fuel type: {car.internals.fuelType}\n"
             infoStr += f"Fuel consumption: {car.internals.fuelConsumption}\n\n"
 
+            infoStr += f"Engine\n"
+            infoStr += f"Size: {car.internals.engine.size}\n"
+            infoStr += f"Cylinders: {car.internals.engine.cylinders}\n"
+            infoStr += f"Induction type: {car.internals.engine.inductionType}\n"
+            infoStr += f"Horse power: {car.internals.engine.horsePower}\n"
+            infoStr += f"Torque: {car.internals.engine.torque}\n"
+
             self.info.delete(1.0, tk.END)
             self.info.insert(tk.INSERT, "About")
 
