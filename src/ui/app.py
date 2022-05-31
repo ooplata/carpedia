@@ -1,5 +1,5 @@
 # %%
-from cars.cars import Car, ImportedCar
+from vehicles.cars import Car, ImportedCar
 from ui.tkcore import Application
 
 import json
