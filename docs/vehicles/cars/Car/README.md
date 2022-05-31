@@ -13,7 +13,7 @@ class Car(ABC)
 ## Properties
 | | |
 | --------------- | --------------- |
-| [releaseYear](Properties/releaseYear.md) | The year this car was released at. |
+| [releaseYear](Properties/releaseYear.md) | The year this car was released in. |
 | [model](Properties/model.md) | Model name for this car. |
 | [brand](Properties/brand.md) | The brand this car belongs to. |
 | [body](Properties/body.md) | The body type for this car. |
