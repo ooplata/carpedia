@@ -16,7 +16,7 @@ This class isn't very useful on its own. You may build your own app by creating 
 ## Properties
 | | |
 | --------------- | --------------- |
-| [window](Application/window.md) | A simple Tkinter window. |
+| [window](Application/window.md) | An instance of the Tk class. |
 
 ## Methods
 | | |
