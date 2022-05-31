@@ -12,4 +12,12 @@ src/
 ├─ main.py
 ```
 
-Let's not worry about the directories for now.
+Let's not worry about the directories for now. Focus on `main.py`. It's an entry point that effectively has only three lines of code:
+
+```Python
+from ui.app import App
+app = App()
+app.run()
+```
+
+The code is fairly simple. First line imports the `App` type from the `app` module, next line creates an instance of `App`, last line runs the app. There is no need for extra code in our entry point, as everything else is handled through custom delegates within our `App` class.
