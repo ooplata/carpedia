@@ -41,29 +41,4 @@ class Engine {
     -horsePower: Int
     -torque: Int
 }
-
-class MotorUtility {
-    -urls: List<String>
-    -getLatestArticle() -> MotorArticle
-    -getArticlesWithCar(Car) -> [MotorArticle]
-    -openArticle(MotorArticle)
-}
-
-class MotorArticle {
-    -publishDate: DateTime
-    -body: String
-    -getAllCars() -> [Car]
-}
-
-class WatchListItem implements Watchable {
-    -model: String
-    -oldPrice: Float
-    -newPrice: Float
-}
-
-class Watchable {
-    -hasChanges: Bool
-    -acceptChanges()
-    -getChanges()
-}
 @enduml
