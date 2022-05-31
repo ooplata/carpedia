@@ -17,6 +17,8 @@ Engine *-- Internals
 Internals *-- Car
 
 abstract class Car {
+    +Car(json)
+
     +releaseYear: int
     +model: str
     +brand: str
@@ -29,6 +31,8 @@ abstract class Car {
 }
 
 class Internals {
+    +Internals(json)
+
     +engine: Engine
     +transmission: str
     +4wb: bool
@@ -38,6 +42,8 @@ class Internals {
 }
 
 class Engine {
+    +Engine(json)
+
     +size: float
     +cylinders: int
     +inductionType: str
@@ -46,6 +52,7 @@ class Engine {
 }
 
 abstract class Application {
+    +Application(title: str, iconPath: str, geometry: str)
     +window: Tk
 
     +run()
@@ -54,6 +61,8 @@ abstract class Application {
 }
 
 class App extends Application {
+    +App()
+
     +cars: List<Car>
     +info: Text
 
