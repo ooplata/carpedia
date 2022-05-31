@@ -1,6 +1,6 @@
 @startuml Project
 class ImportedCar extends Car {
-    -importedOn: DateTime
+    -importedOn: Int
     -originalCountry: String
 }
 
@@ -13,41 +13,33 @@ class NewCar extends Car {
     -concessionaire: String
 }
 
-class Car implements Internals {
-    -releaseYear: DateTime
+Engine *-- Internals
+Internals *-- Car
+
+class Car {
+    -releaseYear: Int
     -model: String
     -brand: String
     -body: String
-    -priceHistory: Dictionary<DateTime,Float>
+    -priceHistory: Dictionary<Int,Float>
     -internals: Internals
 }
 
-class Internals implements Engine {
+class Internals {
     -engine: Engine
     -transmission: String
     -4wb: bool
     -powerTrain: String
-    -fuelType: FuelType
+    -fuelType: String
     -fuelConsumption: Float
-}
-
-enum FuelType {
-    -Gasoline
-    -Diesel
-    -Premium
 }
 
 class Engine {
     -size: Float
     -cylinders: Int
-    -inductionType: InductionType
+    -inductionType: String
     -horsePower: Int
     -torque: Int
-}
-
-enum InductionType {
-    -Turbo
-    -Super
 }
 
 class MotorUtility {
