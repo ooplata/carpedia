@@ -1,7 +1,6 @@
-# Carpedia - Camilo Heras, Omar Plata
-OOP Project 2022-1
-
 ![Carpedia](src/assets/Logo.png)
+
+2022-1 OOP Project by Camilo Heras and Omar Plata.
 
 ## Getting Started
 Code is located inside the src folder. To try out the program, run the `main.py` file.
