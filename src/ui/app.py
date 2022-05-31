@@ -62,7 +62,7 @@ class App(Application):
             infoStr += f"Torque: {car.internals.engine.torque}\n"
 
             self.info.delete(1.0, tk.END)
-            self.info.insert(tk.INSERT, "About")
+            self.info.insert(tk.INSERT, infoStr)
 
             self.showPriceGraph(car)
 
