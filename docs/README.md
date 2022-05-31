@@ -35,4 +35,8 @@ assets/
 In our case, we hold a JSON file with the car information, an ICO file that's used for the app's icon, and a PNG file that's used for the main logo.
 
 ### What does `# %%` even mean?!
-All over our Python source files, you'll find a high amount of lines that are simply `# %%`. These are used for rich Jupyter support within VSCode, and separate the code in logical regions (imports, class definions, etc). The Python interpreter sees those as simple comments, so the code is not affected.
+All over our Python source files, you'll find a high amount of lines that are simply `# %%`. These are used for rich Jupyter support within VSCode:
+
+![Picture of rich VSCode Jupyter support](Jupyter.png)
+
+With them, we separate the code in logical regions (imports, class definions, etc). The Python interpreter sees those as simple comments, so the code is not affected.
