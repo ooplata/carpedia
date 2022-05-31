@@ -29,7 +29,7 @@ class App(Application):
             lb.insert(tk.END, car)
 
         lb.bind('<<ListboxSelect>>', self.onselect)
-        lb.pack()
+        lb.pack(fill="x", side="top")
 
     def onselect(self, evt):
         w = evt.widget
