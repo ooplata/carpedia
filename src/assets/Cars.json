@@ -2,11 +2,11 @@
 	"Imported": [
 		{
 			"importedOn": 2013,
-			"originCountry": "Italia",
+			"originCountry": "Italy",
 			"releaseYear": 2009,
 			"model": "Mito",
 			"brand": "Alfa Romeo",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 46.5,
 				"2014": 49.5,
@@ -17,11 +17,11 @@
 				"engine": {
 					"size": 1.4,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 155,
 					"torque": 230
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
 				"fuelType": "Gasoline",
@@ -30,11 +30,11 @@
 		},
 		{
 			"importedOn": 2013,
-			"originCountry": "Italia",
+			"originCountry": "Italy",
 			"releaseYear": 2009,
 			"model": "Mito",
 			"brand": "Alfa Romeo",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 46.5,
 				"2014": 49.5,
@@ -45,11 +45,11 @@
 				"engine": {
 					"size": 1.4,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 155,
 					"torque": 230
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
 				"fuelType": "Gasoline",
@@ -58,11 +58,11 @@
 		},
 		{
 			"importedOn": 2012,
-			"originCountry": "Italia",
+			"originCountry": "Italy",
 			"releaseYear": 2012,
 			"model": "Giulietta",
 			"brand": "Alfa Romeo",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 49.8,
 				"2014": 53.0,
@@ -73,11 +73,11 @@
 				"engine": {
 					"size": 1.4,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 105,
 					"torque": 215
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
 				"fuelType": "Gasoline",
@@ -86,11 +86,11 @@
 		},
 		{
 			"importedOn": 2013,
-			"originCountry": "Italia",
+			"originCountry": "Italy",
 			"releaseYear": 2012,
 			"model": "Giulietta",
 			"brand": "Alfa Romeo",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 56.5,
 				"2014": 60.1,
@@ -101,11 +101,11 @@
 				"engine": {
 					"size": 1.4,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 170,
 					"torque": 250
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
 				"fuelType": "Gasoline",
@@ -118,7 +118,7 @@
 			"releaseYear": 2010,
 			"model": "A1 Attraction",
 			"brand": "Audi",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 45.7,
 				"2014": 48.6,
@@ -129,11 +129,11 @@
 				"engine": {
 					"size": 1.4,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 122,
 					"torque": 200
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
 				"fuelType": "Gasoline",
@@ -146,7 +146,7 @@
 			"releaseYear": 2010,
 			"model": "A1 Ambition",
 			"brand": "Audi",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 47.0
 			},
@@ -154,11 +154,11 @@
 				"engine": {
 					"size": 1.4,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 122,
 					"torque": 200
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
 				"fuelType": "Gasoline",
@@ -171,7 +171,7 @@
 			"releaseYear": 2011,
 			"model": "A1 Sportback Ambition",
 			"brand": "Audi",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 52.1,
 				"2014": 55.5,
@@ -183,11 +183,11 @@
 				"engine": {
 					"size": 1.4,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 122,
 					"torque": 200
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
 				"fuelType": "Gasoline",
@@ -200,7 +200,7 @@
 			"releaseYear": 2013,
 			"model": "A3",
 			"brand": "Audi",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2014": 55.5,
 				"2015": 59.0
@@ -210,14 +210,14 @@
 				"engine": {
 					"size": 1.2,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 105,
 					"torque": 175
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 5.0
 			}
 		},
@@ -227,7 +227,7 @@
 			"releaseYear": 2013,
 			"model": "A3",
 			"brand": "Audi",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2015": 58.0,
 				"2017": 66.7,
@@ -237,14 +237,14 @@
 				"engine": {
 					"size": 1.2,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 105,
 					"torque": 175
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 5.0
 			}
 		},
@@ -254,7 +254,7 @@
 			"releaseYear": 2013,
 			"model": "A3 Attraction",
 			"brand": "Audi",
-			"body": "Compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2014": 59.2,
 				"2015": 63.0
@@ -263,14 +263,14 @@
 				"engine": {
 					"size": 1.2,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 105,
 					"torque": 175
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 5.0
 			}
 		},
@@ -280,7 +280,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2017": 78.9,
 				"2018": 83.9,
@@ -291,14 +291,14 @@
 				"engine": {
 					"size": 1.2,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 105,
 					"torque": 175
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 5.0
 			}
 		},
@@ -308,7 +308,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2017": 74.2,
 				"2018": 78.9,
@@ -320,14 +320,14 @@
 				"engine": {
 					"size": 1.2,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 105,
 					"torque": 175
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 5.0
 			}
 		},
@@ -337,7 +337,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2017": 74.2,
 				"2018": 78.9,
@@ -349,14 +349,14 @@
 				"engine": {
 					"size": 1.2,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 105,
 					"torque": 175
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 5.0
 			}
 		},
@@ -366,7 +366,7 @@
 			"releaseYear": 2009,
 			"model": "A3",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 61.5,
 				"2014": 65.4,
@@ -377,14 +377,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 197,
 					"torque": 280
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.1
 			}
 		},
@@ -394,7 +394,7 @@
 			"releaseYear": 2009,
 			"model": "A3",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 63.1,
 				"2014": 67.2,
@@ -405,14 +405,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 197,
 					"torque": 280
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.1
 			}
 		},
@@ -422,7 +422,7 @@
 			"releaseYear": 2003,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 44.0,
 				"2014": 46.8,
@@ -433,14 +433,14 @@
 				"engine": {
 					"size": 1.6,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 101,
 					"torque": 148
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 6.8
 			}
 		},
@@ -450,7 +450,7 @@
 			"releaseYear": 2003,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 44.0,
 				"2014": 46.8,
@@ -461,14 +461,14 @@
 				"engine": {
 					"size": 1.6,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 101,
 					"torque": 148
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 6.8
 			}
 		},
@@ -478,7 +478,7 @@
 			"releaseYear": 1996,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 55.6,
 				"2014": 59.2,
@@ -489,14 +489,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 150,
 					"torque": 210
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.8
 			}
 		},
@@ -506,7 +506,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Progressive",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2017": 90.6,
 				"2018": 96.3,
@@ -518,14 +518,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 190,
 					"torque": 320
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.1
 			}
 		},
@@ -535,7 +535,7 @@
 			"releaseYear": 2016,
 			"model": "A3 Progressive",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2017": 96.8,
 				"2018": 103.0,
@@ -547,14 +547,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 190,
 					"torque": 320
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.1
 			}
 		},
@@ -564,7 +564,7 @@
 			"releaseYear": 2004,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 59.8,
 				"2014": 63.6,
@@ -575,14 +575,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 180,
 					"torque": 280
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 9.0
 			}
 		},
@@ -592,7 +592,7 @@
 			"releaseYear": 2004,
 			"model": "A3 Sportback",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 62.3,
 				"2014": 66.3,
@@ -603,14 +603,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 180,
 					"torque": 280
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 9.0
 			}
 		},
@@ -620,7 +620,7 @@
 			"releaseYear": 2006,
 			"model": "S3",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2013": 80.6,
 				"2014": 85.7,
@@ -631,14 +631,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 265,
 					"torque": 350
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": true,
 				"powerTrain": "Total",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 9.1
 			}
 		},
@@ -648,7 +648,7 @@
 			"releaseYear": 2013,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "compacto",
+			"body": "Hatchback",
 			"priceHistory": {
 				"2014": 68.3,
 				"2015": 72.7,
@@ -662,14 +662,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 220,
 					"torque": 350
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.1
 			}
 		},
@@ -679,7 +679,7 @@
 			"releaseYear": 2013,
 			"model": "A3 Ambition",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2014": 74.5,
 				"2015": 79.3,
@@ -693,14 +693,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 220,
 					"torque": 350
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.1
 			}
 		},
@@ -710,7 +710,7 @@
 			"releaseYear": 2008,
 			"model": "A4 Attraction",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 49.0,
 				"2014": 52.1,
@@ -721,14 +721,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 120,
 					"torque": 230
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.5
 			}
 		},
@@ -738,7 +738,7 @@
 			"releaseYear": 2008,
 			"model": "A4 Ambition",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 49.8,
 				"2014": 53.0,
@@ -749,14 +749,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 120,
 					"torque": 230
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.5
 			}
 		},
@@ -766,7 +766,7 @@
 			"releaseYear": 2008,
 			"model": "A4 Comfort",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 60.6,
 				"2014": 64.5,
@@ -777,14 +777,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 120,
 					"torque": 230
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.5
 			}
 		},
@@ -794,7 +794,7 @@
 			"releaseYear": 2007,
 			"model": "A4 Comfort",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 56.5,
 				"2014": 60.1,
@@ -805,14 +805,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 160,
 					"torque": 250
 				},
-				"transmission": "manual",
+				"transmission": "Manual",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.9
 			}
 		},
@@ -822,7 +822,7 @@
 			"releaseYear": 2007,
 			"model": "A4 Comfort",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 62.3,
 				"2014": 66.3,
@@ -833,14 +833,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 160,
 					"torque": 250
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.9
 			}
 		},
@@ -850,7 +850,7 @@
 			"releaseYear": 2007,
 			"model": "A4 Luxury",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 68.1,
 				"2014": 72.5,
@@ -861,14 +861,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 160,
 					"torque": 250
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.9
 			}
 		},
@@ -878,7 +878,7 @@
 			"releaseYear": 2008,
 			"model": "A4 Luxury",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 77.2,
 				"2014": 82.2,
@@ -889,14 +889,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 180,
 					"torque": 320
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 8.3
 			}
 		},
@@ -906,7 +906,7 @@
 			"releaseYear": 2007,
 			"model": "A4 Avant Luxury",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 66.4,
 				"2014": 70.7,
@@ -917,14 +917,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 160,
 					"torque": 250
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.9
 			}
 		},
@@ -945,14 +945,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 168,
 					"torque": 250
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.1
 			}
 		},
@@ -973,14 +973,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 208,
 					"torque": 350
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 6.0
 			}
 		},
@@ -1001,14 +1001,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 208,
 					"torque": 350
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": true,
 				"powerTrain": "Total",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 5.8
 			}
 		},
@@ -1029,14 +1029,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 160,
 					"torque": 250
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.1
 			}
 		},
@@ -1057,14 +1057,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 208,
 					"torque": 350
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": true,
 				"powerTrain": "Total",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 5.8
 			}
 		},
@@ -1085,14 +1085,14 @@
 				"engine": {
 					"size": 1.8,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 160,
 					"torque": 250
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.1
 			}
 		},
@@ -1113,14 +1113,14 @@
 				"engine": {
 					"size": 2.8,
 					"cylinders": 6,
-					"inductionType": "Natural",
+					"inductionType": "Naturally aspirated",
 					"horsePower": 190,
 					"torque": 280
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 8.7
 			}
 		},
@@ -1145,10 +1145,10 @@
 					"horsePower": 290,
 					"torque": 420
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 9.4
 			}
 		},
@@ -1169,14 +1169,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 178,
 					"torque": 320
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 6.4
 			}
 		},
@@ -1197,14 +1197,14 @@
 				"engine": {
 					"size": 2.8,
 					"cylinders": 6,
-					"inductionType": "Natural",
+					"inductionType": "Naturally aspirated",
 					"horsePower": 217,
 					"torque": 280
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "Front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.4
 			}
 		},
@@ -1229,10 +1229,10 @@
 					"horsePower": 306,
 					"torque": 440
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": true,
 				"powerTrain": "Total",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 8.2
 			}
 		},
@@ -1257,7 +1257,7 @@
 					"horsePower": 242,
 					"torque": 500
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": true,
 				"powerTrain": "Total",
 				"fuelType": "Diesel",
@@ -1286,10 +1286,10 @@
 					"horsePower": 296,
 					"torque": 540
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": true,
 				"powerTrain": "Total",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 8.2
 			}
 		},
@@ -1310,14 +1310,14 @@
 				"engine": {
 					"size": 2.0,
 					"cylinders": 4,
-					"inductionType": "turbo",
+					"inductionType": "Turbocharged",
 					"horsePower": 200,
 					"torque": 280
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": false,
 				"powerTrain": "front",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.7
 			}
 		},
@@ -1327,7 +1327,7 @@
 			"releaseYear": 2012,
 			"model": "A8 Quattro",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 141.2,
 				"2014": 150.2,
@@ -1342,10 +1342,10 @@
 					"horsePower": 328,
 					"torque": 440
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": true,
 				"powerTrain": "Total",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 7.8
 			}
 		},
@@ -1355,7 +1355,7 @@
 			"releaseYear": 2010,
 			"model": "A8 Quattro",
 			"brand": "Audi",
-			"body": "sedan",
+			"body": "Sedan",
 			"priceHistory": {
 				"2013": 101.3,
 				"2014": 107.8,
@@ -1366,14 +1366,14 @@
 				"engine": {
 					"size": 4.2,
 					"cylinders": 8,
-					"inductionType": "Natural",
+					"inductionType": "Naturally aspirated",
 					"horsePower": 367,
 					"torque": 445
 				},
-				"transmission": "automatico",
+				"transmission": "Automatic",
 				"4WD": true,
 				"powerTrain": "Total",
-				"fuelType": "gasolina",
+				"fuelType": "Gasoline",
 				"fuelConsumption": 9.5
 			}
 		}
