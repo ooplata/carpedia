@@ -3,7 +3,7 @@
 2022-1 OOP Project by Camilo Heras and Omar Plata.
 
 ## Getting Started
-Code is located inside the src folder. To try out the program, run the `main.py` file.
+Code is located inside the src folder. To try out the program, run the `main.py` file. `main.py` must be run from the src directory, otherwise imports and assets won't work correctly and a crash is bound to happen.
 
 ## Functional requirements
 - [x] The user may want to scroll through a comprehensive list of vehicles
