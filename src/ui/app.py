@@ -31,6 +31,10 @@ class App(Application):
         lb.bind('<<ListboxSelect>>', self.onselect)
         lb.pack(fill="x", side="top")
 
+        self.info = tk.Text(self.window)
+        self.info.insert(tk.INSERT, "Select a car to see more")
+        self.info.pack(fill="x", side="bottom")
+
     def onselect(self, evt):
         w = evt.widget
         index = w.curselection()[0]
