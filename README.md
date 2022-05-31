@@ -5,6 +5,9 @@
 ## Getting Started
 Code is located inside the src folder. To try out the program, run the `main.py` file. `main.py` must be run from the src directory, otherwise imports and assets won't work correctly and a crash is bound to happen.
 
+## Documentation
+Go to [the docs folder](docs/) to see the documentation for this project.
+
 ## Functional requirements
 - [x] The user may want to scroll through a comprehensive list of vehicles
 - [x] The user may want to look at price graphs of certain vehicles
