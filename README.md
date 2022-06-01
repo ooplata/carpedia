@@ -9,10 +9,22 @@ Code is located inside the src folder. To try out the program, run the `main.py`
 Go to [the docs folder](docs/) to see the documentation for this project.
 
 ## Functional requirements
-- [x] The user may want to scroll through a comprehensive list of vehicles
-- [x] The user may want to look at price graphs of certain vehicles
+- [x] The user would like to get historic prices for the vehicles they want based on their preferences
+- [x] Part-by-part program analysis
+- [x] Creation of the price vs time graph
+- [x] Present the graph to the user
 
-## Tasks
-- [x] Prevent unexpected program closure
-- [x] Show the user information on selected vehicles
-- [x] Show the user a price graph on selected vehicles
+## Non-functional requirements
+### Performance
+- [x] Prioritize content loading speed.
+- [x] Friendly UI.
+
+## Minimum system requirements
+- Processor: Intel Atom® processor or Intel® Core™ i3 processor or better
+- Disk space: 1 GB
+- Operating systems: Windows® 7 or later, macOS, and Linux
+
+## Recommended system requirements
+- Processor: Intel® Core™ i5 4300M or better
+- Disk space: 2 to 3 GB
+- Operating systems: Windows® 10, macOS, and Linux
