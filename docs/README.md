@@ -1,6 +1,10 @@
 # Carpedia docs
 Welcome to the Carpedia docs. This is where the full project is documented, complete with classes, structure, types, and more.
 
+## Available packages
+- [tkinterface](tkinterface/README.md)
+- [vehicles](vehicles/README.md)
+
 ## Project structure
 It all starts inside the `src` directory. You'll find three directories and one file inside:
 
