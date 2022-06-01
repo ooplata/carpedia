@@ -1,7 +1,7 @@
 @startuml Project
 class ImportedCar extends Car {
     +importedOn: int
-    +originalCountry: str
+    +originCountry: str
 }
 
 class UsedCar extends Car {
