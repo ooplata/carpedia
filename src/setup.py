@@ -6,7 +6,7 @@ setup(
     url='https://github.com/carpedia/src/vehicles/',
     author='Camilo Heras',
     author_email='caheras@uninorte.edu.co',
-    description='A simple set of classes designed to aid in the implementation of vehicle related software.',
+    description='A simple set of modules designed to aid in the implementation of vehicle related software.',
     packages=['vehicles'],
     zip_safe=False
 )

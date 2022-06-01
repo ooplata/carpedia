@@ -1,5 +1,5 @@
 # vehicles
-A simple set of classes designed to aid in the implementation of vehicle related software.
+A simple set of modules designed to aid in the implementation of vehicle related software.
 
 ## Modules
 | | |
