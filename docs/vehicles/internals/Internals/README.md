@@ -14,8 +14,8 @@ class Internals()
 | | |
 | --------------- | --------------- |
 | [engine](Properties/engine.md) | Represents the engine for a car. |
-| [transmission](Properties/transmission.md) | The car's transmission type. |
 | [fourWd](Properties/fourWd.md) | Whether this car supports 4WD. |
-| [powerTrain](Properties/powerTrain.md) | The car's power train. |
-| [fuelType](Properties/fuelType.md) | Supported fuel type for the car. |
 | [fuelConsumption](Properties/fuelConsumption.md) | The car's fuel consumption. |
+| [fuelType](Properties/fuelType.md) | Supported fuel type for the car. |
+| [powerTrain](Properties/powerTrain.md) | The car's power train. |
+| [transmission](Properties/transmission.md) | The car's transmission type. |

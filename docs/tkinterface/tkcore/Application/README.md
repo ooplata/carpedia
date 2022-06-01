@@ -21,6 +21,6 @@ This class isn't very useful on its own. You may build your own app by creating 
 ## Methods
 | | |
 | --------------- | --------------- |
-| [run()](Methods/run.md) | Starts the app. |
-| [onstartup()](Methods/onstartup.md) | Invoked when the app is started. Override this method to initialize your app. |
 | [onexit()](Methods/onexit.md) | Invoked when the main window's main loop is done executing. Override this method to perform any necessary cleanup or save user progress before the script is done running. |
+| [onstartup()](Methods/onstartup.md) | Invoked when the app is started. Override this method to initialize your app. |
+| [run()](Methods/run.md) | Starts the app. |

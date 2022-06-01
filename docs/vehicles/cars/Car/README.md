@@ -13,15 +13,15 @@ class Car(ABC)
 ## Properties
 | | |
 | --------------- | --------------- |
-| [releaseYear](Properties/releaseYear.md) | The year this car was released in. |
-| [model](Properties/model.md) | Model name for this car. |
-| [brand](Properties/brand.md) | The brand this car belongs to. |
 | [body](Properties/body.md) | The body type for this car. |
-| [priceHistory](Properties/priceHistory.md) | Contains the retail prices for this car across multiple years. |
+| [brand](Properties/brand.md) | The brand this car belongs to. |
 | [internals](Properties/internals.md) | Represents this car's internal components. |
+| [model](Properties/model.md) | Model name for this car. |
+| [priceHistory](Properties/priceHistory.md) | Contains the retail prices for this car across multiple years. |
+| [releaseYear](Properties/releaseYear.md) | The year this car was released in. |
 
 ## Methods
 | | |
 | --------------- | --------------- |
-| [short_description()](Methods/short_description.md) | Gets a short summary of this car's properties in string form. |
 | [long_description()](Methods/long_description.md) | Gets a string representation of this car's full property set. |
+| [short_description()](Methods/short_description.md) | Gets a short summary of this car's properties in string form. |
