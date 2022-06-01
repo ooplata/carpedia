@@ -1,6 +1,6 @@
 # %%
 import deps
-from app import App
+from carpedia.app import App
 
 # %%
 app = App()

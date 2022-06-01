@@ -12,11 +12,11 @@ import tkinter as tk
 # %%
 class App(Application):
     def __init__(self) -> None:
-        super().__init__("Carpedia", "assets/Icon.ico", "600x600")
+        super().__init__("Carpedia", "carpedia/assets/Icon.ico", "600x600")
         self.cars = []
 
     def onstartup(self):
-        file = open('assets/Cars.json')
+        file = open('carpedia/assets/Cars.json')
         data = json.load(file)
 
         for car in data["Imported"]:

@@ -1,4 +1,4 @@
-![Carpedia](src/assets/Logo.png)
+![Carpedia](src/carpedia/assets/Logo.png)
 
 2022-1 OOP Project by Camilo Heras and Omar Plata.
 
