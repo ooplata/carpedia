@@ -1,6 +1,6 @@
 # %%
 from vehicles.cars import Car, ImportedCar
-from ui.tkcore import Application
+from tkinterface.tkcore import Application
 
 import json
 import matplotlib.pyplot as plt

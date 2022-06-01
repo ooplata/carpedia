@@ -1,5 +1,9 @@
 # %%
-from ui.app import App
+import os
+os.system("pip install -e .")
+
+# %%
+from app import App
 
 # %%
 app = App()
