@@ -1,8 +1,5 @@
 # %%
-import os
-os.system("pip install -e .")
-
-# %%
+import deps
 from app import App
 
 # %%
